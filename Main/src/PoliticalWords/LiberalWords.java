@@ -1,4 +1,4 @@
-package loogika;
+package PoliticalWords;
 
 public enum LiberalWords {
     SVETOV("Svetov"),
